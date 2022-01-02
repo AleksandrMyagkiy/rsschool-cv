@@ -9,9 +9,7 @@
     
 ## About Me
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum 
-dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+I am a junior front-end developer. Over the years of working for myself, I've learned to be responsibility and enjoy what you do. In my free time I like to ride a bike and am fond of ATVs. This hobi helps me recover from a long work at the computer and create with renewed vigor.
 
 
 ## My Skils:
