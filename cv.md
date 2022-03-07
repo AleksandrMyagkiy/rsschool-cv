@@ -2,8 +2,8 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Contacts:
-   * Location: Ukraine, Kiev
-   * Phone: +38(098)624-42-14
+   * Location: Ukraine
+   * Phone: +38(098)624-42-14, +38(063)310-11-11
    * Email: dentranscom@gmail.com
    * GitHub: [Aleksandr Myagkiy](https://github.com/AleksandrMyagkiy)
     
