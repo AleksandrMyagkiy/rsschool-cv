@@ -37,5 +37,5 @@ function goToUp(e) {
 		} else {
 			window.clearInterval(scrollToTop);
 		}
-	}, 10);
+	}, );
 }
