@@ -17,6 +17,17 @@ counters.forEach((item, i) => {
 	lines[i].style.width = item.innerHTML;
 });
 
+// Close menu hamburger
+const navLinks = document.querySelectorAll('.menu_link');
+
+navLinks.forEach((el) => el.addEventListener('click', exitMenu));
+
+function exitMenu(event) {
+	if (event.target.classList.contains('menu_link')) {
+		menu.classList.remove('active');
+	}
+}
+
 	//Smooth scroll and page up
 window.onscroll = function() {
 	const scrollElem = document.getElementById("scrollToTop");
