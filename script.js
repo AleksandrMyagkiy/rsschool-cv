@@ -38,15 +38,3 @@ window.onscroll = function() {
 		scrollElem.style.display = "none";
 	}
 };
-
-function goToUp(e) {
-	e.preventDefault();
-	const scrollToTop = window.setInterval(function() {
-		const pozition = window.pageYOffset;
-		if ( pozition > 0) {
-			window.scrollTo( 0, pozition - 20);
-		} else {
-			window.clearInterval(scrollToTop);
-		}
-	}, );
-}
