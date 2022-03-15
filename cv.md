@@ -20,9 +20,8 @@ dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
    3. JavaScript
    4. Git
    5. Gulp
-   6. Webpack
-   7. Figma
-   8. React
+   6. Figma
+   7. React
     
 ## Code Example
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
